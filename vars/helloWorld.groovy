@@ -1,3 +1,3 @@
-def call() {
-  sh 'hello to share libraries'
+def call() 
+echo "Hello, let's share libraries!"
 }
